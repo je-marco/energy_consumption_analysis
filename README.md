@@ -1,5 +1,7 @@
 # Dynamic Analysis of Daewoo Steel Year 2018 Energy Consumption 
 
+![overview](https://github.com/je-marco/energy_consumption_analysis/blob/9e9b43cb2ac0440782d3aa2510998916e3074688/overview.png)
+
 ## Overview
 This project is about analyzing the energy consumption of Daewoo Steel Co. Ltd, a small-scale steel manufacturing plant using a dynamic dashboard in Excel.
 
