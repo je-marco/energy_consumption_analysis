@@ -50,7 +50,7 @@ The energy usage included in this analysis included both electricity consumption
 * Optimize production schedules:
   * Pinpoint energy-intensive processes and schedule them on off-peak hours when energy costs are lower.
   * Shut down less energy-efficient equipment sets when there is an increase in production demand.
-* Incorporate advanced power systems: Use automatic power factor correction systme to manage reactive power.
+* Incorporate advanced power systems: Use automatic power factor correction system to manage reactive power.
 * Reduce fixed energy usage:
   * Lighting: Install motion sensors to activate lights only when needed.
   * Ventilation: Localize and automate ventilation with timers or occupancy sensors.
